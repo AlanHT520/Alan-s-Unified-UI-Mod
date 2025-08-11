@@ -32,7 +32,7 @@
    本模组按"现状"提供，作者不对因使用本模组产生的任何直接/间接损失承担责任。
 
 ## 官方渠道
-模组主页：[Modrinth](https://modrinth.com/Alan-Unified-UI)  
+模组主页：[Modrinth](https://modrinth.com/mod/alan-unified-ui)  
 GitHub：[Github(无源代码)](https://github.com/AlanHT520/Alan-s-Unified-UI-Mod)
 
 *最后更新：2025年8月11日*
