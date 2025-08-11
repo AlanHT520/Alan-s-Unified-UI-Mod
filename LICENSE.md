@@ -32,7 +32,7 @@
    THE MOD IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT/INDIRECT DAMAGES ARISING FROM ITS USE.
 
 ## Official Channels
-Mod Page: [Modrinth](https://modrinth.com/Alan-Unified-UI)  
+Mod Page: [Modrinth](https://modrinth.com/mod/alan-unified-ui)  
 GitHub: [Github(Closed Source)](https://github.com/AlanHT520/Alan-s-Unified-UI-Mod)
 
 *Last Updated: August 11, 2025*
