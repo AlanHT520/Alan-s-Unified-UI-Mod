@@ -19,7 +19,6 @@
 3. **Prohibited Actions**  
    - Claim ownership of this product
    - Commercial use without written consent
-   - Performing reverse engineering (including but not limited to decompilation/disassembly)
    - Distributing source code obtained through reverse engineering
    - Distributing modified versions as official releases
 
