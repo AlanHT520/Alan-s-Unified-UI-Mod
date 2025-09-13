@@ -22,17 +22,11 @@
    - Distributing source code obtained through reverse engineering
    - Distributing modified versions as official releases
 
-4. **Intellectual Heritage Protocol**  
-   Source code derived through reverse engineering shall be regarded as an extension of intellectual heritage:
-   - Permitted solely for personal academic research
-   - Public display of derivative works prohibited without written authorization (must display authorization credentials if published)
-   - Improvements based on this code shall be contributed to the original creator
-
-5. **Disclaimer**  
+4. **Disclaimer**  
    THE MOD IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT/INDIRECT DAMAGES ARISING FROM ITS USE.
 
 ## Official Channels
 Mod Page: [Modrinth](https://modrinth.com/mod/alan-unified-ui)  
 GitHub: [Github(Closed Source)](https://github.com/AlanHT520/Alan-s-Unified-UI-Mod)
 
-*Last Updated: August 11, 2025*
+*Last Updated: September 13, 2025*
